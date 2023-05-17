@@ -27,7 +27,7 @@ public class Student
      * @param givenName the name to set
      */
     public void setName(String givenName) {
-        name = givenName;
+        name = givenName ;
     }
     
     
