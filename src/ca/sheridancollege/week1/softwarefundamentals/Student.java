@@ -15,7 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student 
 {
     private String name;
-    private String lastName;
+    private String middleName;
 
     /**
      * @return the name
